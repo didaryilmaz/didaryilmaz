@@ -40,7 +40,6 @@ A backend API template using **ASP.NET Core**, **Entity Framework**, and **JWT A
 
 ### 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/didaryilmaz)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://didaryilmaz.tech)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/didaryilmaz)  
 
 ---
