@@ -11,4 +11,4 @@
 ---
 
 ### 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/didaryilmaz)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/didaryilmaz](https://www.linkedin.com/in/didar-y%C4%B1lmaz-03a0b3267/))  
